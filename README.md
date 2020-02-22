@@ -16,7 +16,7 @@ You can visit the live version here - https://ryanjms.github.io/ryan_s_homework_
 
 Screenshots:
 About (index.html)
-![about] (images/about.png)
+![about](images/about.png)
 Portfolio (portfolio.html)
 ![portfolio](images/portfolio.png)
 Contact (contact.html)
